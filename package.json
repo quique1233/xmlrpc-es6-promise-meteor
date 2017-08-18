@@ -1,6 +1,6 @@
 {
-  "name": "xmlrpc-es6-promise",
-  "description": "A pure JavaScript XML-RPC client and server that uses es6-promises.",
+  "name": "xmlrpc-es6-promise-meteor",
+  "description": "A pure JavaScript XML-RPC client and server that uses es6-promises. Meteor adaptation to work with promises",
   "keywords": [
     "xml-rpc",
     "xmlrpc",
@@ -14,10 +14,10 @@
   "author": "Richard Schaefer <rchrdschfr@gmail.com> (https://github.com/rchrdschfr)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rchrdschfr/node-xmlrpc.git"
+    "url": "https://github.com/quique1233/xmlrpc-es6-promise-meteor"
   },
   "bugs": {
-    "url": "https://github.com/rchrdschfr/node-xmlrpc/issues"
+    "url": "https://github.com/quique1233/xmlrpc-es6-promise-meteor/issues"
   },
   "directories": {
     "lib": "./lib"
