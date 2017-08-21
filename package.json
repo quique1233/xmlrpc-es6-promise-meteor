@@ -8,7 +8,7 @@
     "rpc",
     "promise"
   ],
-  "version": "1.4.2.1",
+  "version": "1.4.3",
   "preferGlobal": false,
   "homepage": "https://github.com/rchrdschfr/node-xmlrpc",
   "author": "Richard Schaefer <rchrdschfr@gmail.com> (https://github.com/rchrdschfr)",
